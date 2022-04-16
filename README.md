@@ -1,7 +1,7 @@
 # School_District_Analysis.
 
 ## Overview
-The school district Cheif had given us the data of 15 schools and thousands of students in those schools. We used jupter note book, panda and python to turn the dta into meaninful information and make usefull insights
+The school district Chiif had given us the data of 15 schools and thousands of students in those schools. We used jupter note book, panda and python to turn the data into meaningful information and make usefull insights
 
 ## Purpose 
 
